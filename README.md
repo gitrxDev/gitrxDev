@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/gitrxDev/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gitrxDev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitrxDev&layout=compact&langs_count=5&theme=merko"/>
+  <img height="150em" width="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitrxDev&layout=compact&langs_count=5&theme=merko"/>
 </div><br>                            
   
   <div style="display: inline_block"><br>
@@ -30,10 +30,4 @@
 </div>
   </div> 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
