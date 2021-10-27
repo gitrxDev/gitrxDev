@@ -28,6 +28,7 @@
   
   ![Snake animation](https://github.com/gitrxDev/gitrxDev/blob/output/github-contribution-grid-snake.svg)
  
+   
 </div>
   </div> 
 
