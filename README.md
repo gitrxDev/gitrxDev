@@ -20,7 +20,7 @@
 </div>
 
   ##  
- <br> 
+ 
  <div> 
   <a href="https://www.facebook.com/profile.php?id=100071557791440" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raul-fonseca-214740216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
