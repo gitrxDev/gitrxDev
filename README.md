@@ -1,6 +1,6 @@
 
   
-  ## Olá! 👋 sou o Raul Fonseca, estudante de programação !!! 💻
+  ## Olá! 👋 sou o Raul, estudante de programação !!! 💻
 
 <div align="center">
   <a href="https://github.com/gitrxDev/">
