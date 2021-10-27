@@ -1,4 +1,4 @@
-<p style="text-align: center;">### Olá! 👋 sou o Raul Fonseca, estudante de programação !!! 💻
+<p style="text-align: center;">Olá! 👋 sou o Raul Fonseca, estudante de programação !!! 💻
 </p>
 
 <!--
