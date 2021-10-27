@@ -1,4 +1,4 @@
-### Olá! 👋 sou o Raul Fonseca, estudante de programação !!! 🎒 💻
+### Olá! 👋 sou o Raul Fonseca, estudante de programação !!! 💻
 
 <!--
 **gitrxDev/gitrxDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎒 
 
 
 <div align="center">
