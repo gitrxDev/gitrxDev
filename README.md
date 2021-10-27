@@ -1,5 +1,7 @@
-<p style="text-align: center;">Olá! 👋 sou o Raul Fonseca, estudante de programação !!! 💻
-</p>
+
+  
+  <p style="text-align: center;">Olá! 👋 sou o Raul Fonseca, estudante de programação !!! 💻</p>
+
 
 <!--
 **gitrxDev/gitrxDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
